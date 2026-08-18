@@ -4,7 +4,7 @@
 
 Gnomons is an embedded software, IoT, and Edge AI engineering team, established in 2013, with deep expertise across **constrained silicon platforms** — including the Renesas, NVIDIA, and Raspberry Pi ecosystems.
 
-🌐 **Website:** [gnomons.com](https://gnomons.com)
+🌐 **Website:** [www.gnomons.com](https://www.gnomons.com)
 
 ## What We Do
 
