@@ -14,7 +14,7 @@ Gnomons is an embedded software, IoT, and Edge AI engineering team, established 
 
 ## Offices
 
-- 🇯🇵 Tokyo, Japan — Headquarters
+- 🇯🇵 Tokyo, Japan — Headquarters & Office
 - 🇻🇳 Ho Chi Minh City, Vietnam — R&D / Engineering Hub
 
 ## Get in Touch
